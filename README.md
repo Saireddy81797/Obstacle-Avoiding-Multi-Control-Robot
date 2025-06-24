@@ -50,6 +50,6 @@ This project showcases an intelligent robot car capable of **autonomously detect
 
 ## 🔧 Arduino Code Files
 
--  [FullRobotControl.ino](Code/FullRobotControl.ino) — Full code with Obstacle, Bluetooth, and Voice control
--  [BluetoothControlOnly.ino](Code/BluetoothControlOnly.ino) — Bluetooth-only demo
--  [ObstacleAvoidanceOnly.ino](Code/ObstacleAvoidanceOnly.ino) — Obstacle avoidance module
+-  [FullRobotControl.ino](Code/FullRobotControl.ino) — Obstacle Avoidance code
+-  [BluetoothControlOnly.ino](Code/BluetoothControlOnly.ino) — Bluetooth- code 
+-  [ObstacleAvoidanceOnly.ino](Code/ObstacleAvoidanceOnly.ino) — Voice Control Code
