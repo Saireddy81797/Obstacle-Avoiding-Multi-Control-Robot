@@ -52,7 +52,7 @@ This project showcases an intelligent robot car capable of **autonomously detect
 
 -  [FullRobotControl.ino](Code/FullRobotControl.ino) — Obstacle Avoidance code
 -  [BluetoothControlOnly.ino](Code/BluetoothControlOnly.ino) — Bluetooth- code 
--  [ObstacleAvoidanceOnly.ino](Code/ObstacleAvoidanceOnly.ino) — Voice Control Code
+-  [FullRobotControl.ino](Code/ObstacleAvoidanceOnly.ino) — Voice Control Code 
 
 
 ## 📸 Project Images
